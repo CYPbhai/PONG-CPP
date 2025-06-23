@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Chirag\\Projects\\C\u002B\u002B\\Games\\My FIrst C\u002B\u002B Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49546B56-60A6-4513-BAB5-6C737B51D30B}|My FIrst C\u002B\u002B Game\\My FIrst C\u002B\u002B Game.vcxproj|D:\\Chirag\\Projects\\C\u002B\u002B\\Games\\My FIrst C\u002B\u002B Game\\My FIrst C\u002B\u002B Game\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49546B56-60A6-4513-BAB5-6C737B51D30B}|My FIrst C\u002B\u002B Game\\My FIrst C\u002B\u002B Game.vcxproj|solutionrelative:My FIrst C\u002B\u002B Game\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49546B56-60A6-4513-BAB5-6C737B51D30B}|My FIrst C\u002B\u002B Game\\My FIrst C\u002B\u002B Game.vcxproj|D:\\Chirag\\Projects\\C\u002B\u002B\\Games\\My FIrst C\u002B\u002B Game\\My FIrst C\u002B\u002B Game\\win32_platform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49546B56-60A6-4513-BAB5-6C737B51D30B}|My FIrst C\u002B\u002B Game\\My FIrst C\u002B\u002B Game.vcxproj|solutionrelative:My FIrst C\u002B\u002B Game\\win32_platform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49546B56-60A6-4513-BAB5-6C737B51D30B}|My FIrst C\u002B\u002B Game\\My FIrst C\u002B\u002B Game.vcxproj|D:\\Chirag\\Projects\\C\u002B\u002B\\Games\\My FIrst C\u002B\u002B Game\\My FIrst C\u002B\u002B Game\\platform_common.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49546B56-60A6-4513-BAB5-6C737B51D30B}|My FIrst C\u002B\u002B Game\\My FIrst C\u002B\u002B Game.vcxproj|solutionrelative:My FIrst C\u002B\u002B Game\\platform_common.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49546B56-60A6-4513-BAB5-6C737B51D30B}|My FIrst C\u002B\u002B Game\\My FIrst C\u002B\u002B Game.vcxproj|D:\\Chirag\\Projects\\C\u002B\u002B\\Games\\My FIrst C\u002B\u002B Game\\My FIrst C\u002B\u002B Game\\utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49546B56-60A6-4513-BAB5-6C737B51D30B}|My FIrst C\u002B\u002B Game\\My FIrst C\u002B\u002B Game.vcxproj|solutionrelative:My FIrst C\u002B\u002B Game\\utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49546B56-60A6-4513-BAB5-6C737B51D30B}|My FIrst C\u002B\u002B Game\\My FIrst C\u002B\u002B Game.vcxproj|D:\\Chirag\\Projects\\C\u002B\u002B\\Games\\My FIrst C\u002B\u002B Game\\My FIrst C\u002B\u002B Game\\renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49546B56-60A6-4513-BAB5-6C737B51D30B}|My FIrst C\u002B\u002B Game\\My FIrst C\u002B\u002B Game.vcxproj|solutionrelative:My FIrst C\u002B\u002B Game\\renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "game.cpp",
+              "DocumentMoniker": "D:\\Chirag\\Projects\\C\u002B\u002B\\Games\\My FIrst C\u002B\u002B Game\\My FIrst C\u002B\u002B Game\\game.cpp",
+              "RelativeDocumentMoniker": "My FIrst C\u002B\u002B Game\\game.cpp",
+              "ToolTip": "D:\\Chirag\\Projects\\C\u002B\u002B\\Games\\My FIrst C\u002B\u002B Game\\My FIrst C\u002B\u002B Game\\game.cpp",
+              "RelativeToolTip": "My FIrst C\u002B\u002B Game\\game.cpp",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAADkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-23T07:33:14.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "platform_common.cpp",
+              "DocumentMoniker": "D:\\Chirag\\Projects\\C\u002B\u002B\\Games\\My FIrst C\u002B\u002B Game\\My FIrst C\u002B\u002B Game\\platform_common.cpp",
+              "RelativeDocumentMoniker": "My FIrst C\u002B\u002B Game\\platform_common.cpp",
+              "ToolTip": "D:\\Chirag\\Projects\\C\u002B\u002B\\Games\\My FIrst C\u002B\u002B Game\\My FIrst C\u002B\u002B Game\\platform_common.cpp",
+              "RelativeToolTip": "My FIrst C\u002B\u002B Game\\platform_common.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-23T07:19:52.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "utils.cpp",
+              "DocumentMoniker": "D:\\Chirag\\Projects\\C\u002B\u002B\\Games\\My FIrst C\u002B\u002B Game\\My FIrst C\u002B\u002B Game\\utils.cpp",
+              "RelativeDocumentMoniker": "My FIrst C\u002B\u002B Game\\utils.cpp",
+              "ToolTip": "D:\\Chirag\\Projects\\C\u002B\u002B\\Games\\My FIrst C\u002B\u002B Game\\My FIrst C\u002B\u002B Game\\utils.cpp",
+              "RelativeToolTip": "My FIrst C\u002B\u002B Game\\utils.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-22T13:55:27.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "renderer.cpp",
+              "DocumentMoniker": "D:\\Chirag\\Projects\\C\u002B\u002B\\Games\\My FIrst C\u002B\u002B Game\\My FIrst C\u002B\u002B Game\\renderer.cpp",
+              "RelativeDocumentMoniker": "My FIrst C\u002B\u002B Game\\renderer.cpp",
+              "ToolTip": "D:\\Chirag\\Projects\\C\u002B\u002B\\Games\\My FIrst C\u002B\u002B Game\\My FIrst C\u002B\u002B Game\\renderer.cpp",
+              "RelativeToolTip": "My FIrst C\u002B\u002B Game\\renderer.cpp",
+              "ViewState": "AgIAAKIBAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-22T13:39:07.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "win32_platform.cpp",
+              "DocumentMoniker": "D:\\Chirag\\Projects\\C\u002B\u002B\\Games\\My FIrst C\u002B\u002B Game\\My FIrst C\u002B\u002B Game\\win32_platform.cpp",
+              "RelativeDocumentMoniker": "My FIrst C\u002B\u002B Game\\win32_platform.cpp",
+              "ToolTip": "D:\\Chirag\\Projects\\C\u002B\u002B\\Games\\My FIrst C\u002B\u002B Game\\My FIrst C\u002B\u002B Game\\win32_platform.cpp",
+              "RelativeToolTip": "My FIrst C\u002B\u002B Game\\win32_platform.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-22T11:42:48.223Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
