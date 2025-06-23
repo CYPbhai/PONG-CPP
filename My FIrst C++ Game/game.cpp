@@ -9,6 +9,21 @@ float ball_p_x, ball_p_y, ball_dp_x = 130, ball_dp_y, ball_half_size = 1;
 
 int player_1_score = 0, player_2_score = 0;
 
+internal void
+reset_game()
+{
+	player_1_p = 0.f;
+	player_1_dp = 0.f;
+	player_2_p = 0.f;
+	player_2_dp = 0.f;
+	ball_p_x = 0.f;
+	ball_p_y = 0.f;
+	ball_dp_x = 130.f;
+	ball_dp_y = 0.f;
+	player_1_score = 0;
+	player_2_score = 0;
+}
+
 internal bool
 aabb_vs_aabb(float p1x, float p1y, float hs1x, float hs1y,
 	float p2x, float p2y, float hs2x, float hs2y)
@@ -61,6 +76,7 @@ simulate_game(Input* input, float dt)
 		{
 			current_gamemode = GM_MENU;
 			hot_button = 0;
+			reset_game();
 		}
 		else if(current_gamemode == GM_MENU)
 			running = false;

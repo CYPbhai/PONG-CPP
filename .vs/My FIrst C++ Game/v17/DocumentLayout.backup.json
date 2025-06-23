@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "My FIrst C\u002B\u002B Game\\game.cpp",
               "ToolTip": "D:\\Chirag\\Projects\\C\u002B\u002B\\Games\\My FIrst C\u002B\u002B Game\\My FIrst C\u002B\u002B Game\\game.cpp",
               "RelativeToolTip": "My FIrst C\u002B\u002B Game\\game.cpp",
-              "ViewState": "AgIAAIcAAAAAAAAAAAAAAHgAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAE0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-23T07:33:14.849Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "My FIrst C\u002B\u002B Game\\platform_common.cpp",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-23T07:19:52.513Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T07:19:52.513Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "My FIrst C\u002B\u002B Game\\utils.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-22T13:55:27.831Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T13:55:27.831Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "My FIrst C\u002B\u002B Game\\renderer.cpp",
               "ViewState": "AgIAAKIBAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-22T13:39:07.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T13:39:07.357Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "My FIrst C\u002B\u002B Game\\win32_platform.cpp",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-22T11:42:48.223Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T11:42:48.223Z"
             }
           ]
         }
